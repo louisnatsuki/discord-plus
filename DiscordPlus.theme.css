@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://vignette.wikia.nocookie.net/steven-universe/images/8/86/Tumblr_f4645376f063b63fc4aee31cc1aff7f4_99d1247e_540.gif/revision/latest?cb=20200723023352);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
